@@ -1,0 +1,58 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(177,177,299); 
+        color: black;
+}
+header logo{
+    width: 100px;
+}
+header logo img{
+    width: 100px;
+    height: auto;
+}
+header college name{
+    text-align: center;
+    flex-grow: 1;
+}
+header college name{
+    font-size: 25px;
+    font-weight: bold;
+}
+footer{
+        text-align: center;
+        padding: 20px;
+        background-color: #003366;
+        color:white;
+        width: 100%;
+        position:sticky;
+
+
+    }
+    footer p{
+        font: size 14px;
+    }
+    }
+    .hero-btn{
+        display: inline-block;
+        text-decoration:none;
+        coor:#fff
+        bordler: 1px solid #fff;
+        padding: 12px;
+        font: size 13px;
+        background:transparent;
+        position: relative;
+        cursor: pointer;
+    }
+    .hero-btn:hover{
+        border:1px solid #f44336;
+        background: #f44336;
+        transition: 1s;
+        
+    }
+     
+
+    
+    
